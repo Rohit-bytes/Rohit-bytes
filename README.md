@@ -1,30 +1,34 @@
-# Hi there, I’m Rohit!
+# FloraFauna
 
-### 👨‍💻 About Me
-- Flutter Developer | Mobile App Enthusiast  
-- BCA final year student  
-- Passionate about building beautiful, fast, and functional apps
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white)
 
-### 💻 Skills
+## 🌿 About FloraFauna
+**FloraFauna** is an educational app designed to help users explore the amazing world of plants and animals.  
+Built as my **final year project** using Flutter, Dart, and Firebase.
 
-<p>
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</p>
+## ✨ Features
+- Browse detailed info on plants & animals  
+- Beautiful UI with smooth animations  
+- Save favorites for quick access  
+- Search & filter species easily
 
-### 🌟 Projects
-- [Animekaisen App](https://github.com/Rohit-bytes/Animekaisen) → Anime streaming app  
-- [Subscroll: A Community App](https://github.com/Rohit-bytes/Subscroll) → Social app with posts & comments  
-- **Flora Fauna (Final Year Project)** → Educational app about plants & animals
+## 🚀 Tech Stack
+- Flutter  
+- Dart  
+- Firebase (Firestore, Auth, Storage)
 
-### 📈 GitHub Stats
-![Rohit’s GitHub stats](https://github-readme-stats.vercel.app/api?username=Rohit-bytes&show_icons=true&theme=tokyonight)
+## 📸 Screenshots
+*(Add screenshots here — just drag & drop or use Markdown image links)*
 
-### 📫 Connect With Me
-- [LinkedIn](https://www.linkedin.com/in/rohit-tanwar-75b826259)  
-- [GitHub Repositories](https://github.com/Rohit-bytes?tab=repositories)
+## 📦 Installation
 
-### ⚡ Fun Fact
-I love football and beaches, and I’m aiming to work abroad as a Flutter developer!
+```bash
+git clone https://github.com/Rohit-bytes/florafauna.git
+cd florafauna
+flutter pub get
+flutter run
+
+
+
