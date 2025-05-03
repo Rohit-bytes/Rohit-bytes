@@ -48,9 +48,10 @@
 
 ---
 
-### 📫 **Connect With Me**
-- [LinkedIn](https://www.linkedin.com/in/rohit-tanwar-75b826259)  
-- [GitHub Repositories](https://github.com/Rohit-bytes?tab=repositories)
+### 📫 **Contact Me**
+- 📧 **Email**: [Rohittanwar1287@gmail.com](mailto:Rohittanwar1287@gmail.com)
+- 💼 **LinkedIn**: [Rohit Tanwar](https://www.linkedin.com/in/rohit-tanwar-75b826259)  
+- 🐱 **GitHub Repositories**: [Rohit-bytes GitHub](https://github.com/Rohit-bytes?tab=repositories)
 
 ---
 
