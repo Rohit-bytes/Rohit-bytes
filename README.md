@@ -3,7 +3,9 @@
 ### 👨‍💻 About Me
 - **Flutter Developer** | Mobile App Enthusiast  
 - **BCA final year student**  
-- Passionate about building **beautiful, fast, and functional apps**
+- Passionate about building **beautiful, fast, and functional apps**  
+
+---
 
 ### 💻 Skills
 
@@ -19,12 +21,23 @@
 
 ### 🌟 **Projects**  
 - **[Flora Fauna (Final Year Project)](https://github.com/Rohit-bytes/florafauna)** → Educational app about plants & animals  
-- **[Subscroll: A Community App](https://github.com/Rohit-bytes/Subscroll)** → Social app with posts & comments (Minor Project)
+- **[Subscroll: A Community App](https://github.com/Rohit-bytes/Subscroll)** → Social app with posts & comments (Minor Project)  
 
 ---
 
 ### 📈 **GitHub Stats**
 ![Rohit’s GitHub stats](https://github-readme-stats.vercel.app/api?username=Rohit-bytes&show_icons=true&theme=tokyonight)
+
+---
+
+### 🗣 **Languages I Know**
+- **C++**  
+- **Dart**  
+
+---
+
+### 💻 **Top Languages**
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rohit-bytes&langs_count=10&layout=compact)
 
 ---
 
@@ -39,5 +52,5 @@ I love **football** and **beaches**, and I’m aiming to work abroad as a **Flut
 
 ---
 
-💬 **Let’s Connect!**
+💬 **Let’s Connect!**  
 Feel free to reach out to me for any exciting collaborations or Flutter-related discussions.
