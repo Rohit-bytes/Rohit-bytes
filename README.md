@@ -1,7 +1,7 @@
 # 👋 Hi there, I’m Rohit!
 
 <div align="center">
-  <img src="https://media.giphy.com/media/3o7qDHWfrjFWRwGAT2/giphy.gif" width="400" alt="Working Image"/>
+  <img src="https://giphy.com/gifs/JIX9t2j0ZTN9S" width="400" alt="Working Image"/>
 </div>
 
 
