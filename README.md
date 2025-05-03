@@ -1,5 +1,9 @@
 # 👋 Hi there, I’m Rohit!
 
+<div align="center">
+  <img src="https://media.giphy.com/media/26FPt7r0prIbS0wxu/giphy.gif" width="400" alt="Welcome Image"/>
+</div>
+
 ### 👨‍💻 About Me
 - **Flutter Developer** | Mobile App Enthusiast  
 - **BCA final year student**  
@@ -8,8 +12,7 @@
 ---
 
 ### 💻 Skills
-
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase" />
@@ -26,7 +29,9 @@
 ---
 
 ### 📈 **GitHub Stats**
-![Rohit’s GitHub stats](https://github-readme-stats.vercel.app/api?username=Rohit-bytes&show_icons=true&theme=tokyonight)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Rohit-bytes&show_icons=true&theme=tokyonight" alt="Rohit's GitHub Stats" />
+</div>
 
 ---
 
@@ -37,7 +42,9 @@
 ---
 
 ### 💻 **Top Languages**
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rohit-bytes&langs_count=10&layout=compact)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rohit-bytes&langs_count=10&layout=compact" alt="Top Languages" />
+</div>
 
 ---
 
